@@ -1,6 +1,6 @@
 # Selenium-IAnnotationTransformer-Automation
 
-##Find the below-detailed points about the tools/technology used in this project:
+## Find the below-detailed points about the tools/technology used in this project:
 * Language: Java
 * Used POM to organise the classes and packages
 * Data driven tests from Excel using testNG dataprovider.
@@ -12,7 +12,7 @@
 -- Gecko driver
 
 
-##Other Details:
+## Other Details:
 * It will generate the Extent Report with the screenshots when test case fails. Easily customizable according to project need from TestRunDetails.properties.
 * TestData from the excel sheet(/resources/testdata.xlsx) is fetched with the help of dataprovider and storing it in HashMap for easier processing.
 -- In the RunManager sheet --> Choose the test cases you want to run by pass Yes under RunFlag column
