@@ -1,4 +1,5 @@
 # Selenium-IAnnotationTransformer-Automation
+Using Selenium, IAnnotationTransformer, TestNG, and POM created a Data-driven framework, which also generates Extent Report of Test Results.
 
 ## Find the below-detailed points about the tools/technology used in this project:
 * Language: Java
