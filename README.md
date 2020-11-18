@@ -7,8 +7,7 @@ Using Selenium, IAnnotationTransformer, TestNG, and POM created a Data-driven fr
 * Data driven tests from Excel using testNG dataprovider.
 * Used TestNG framework to keep track of test cases getting passed, failed, and skipped.
 * Used Maven to manage the dependencies and as build execution tool
-* Drivers used:
--- Selenium-Java WebDriver: `3.141.59`, Chrome driver, Gecko driver
+* Drivers used: Selenium-Java WebDriver -`3.141.59`, Chrome driver, Gecko driver
 
 
 ## Other Details:
