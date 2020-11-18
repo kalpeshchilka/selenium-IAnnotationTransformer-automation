@@ -19,7 +19,7 @@ Using Selenium, IAnnotationTransformer, TestNG, and POM created a Data-driven fr
 * The project highlights each element clicked on Web Page with Red border.
 
 
-## Installation (pre-requisites)
+## Installation (pre-requisites):
 1. JDK 1.8+ (make sure Java class path is set)
 2. Maven (make sure .m2 class path is set)
 3. Eclipse
@@ -32,11 +32,11 @@ Using Selenium, IAnnotationTransformer, TestNG, and POM created a Data-driven fr
    * Chrome driver version - [84.0.4147.30](https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/), compatible with Chrome version 84
 
 
-## Setup
+## Setup:
 * Install dependencies: `mvn install`
 
 
-## Running your tests
+## Running your tests:
 * To run the test on Chrome Browser: `mvn test -PSanityTest -DbrowserName.USER="chrome"`
 * To run the test on FireFox Browser: `mvn test -PSanityTest -DbrowserName.USER="firefox"`
 
