@@ -8,7 +8,7 @@ Using Selenium, IAnnotationTransformer, TestNG, and POM created a Data-driven fr
 * Used TestNG framework to keep track of test cases getting passed, failed, and skipped.
 * Used Maven to manage the dependencies and as build execution tool
 * Drivers used:
--- Selenium-Java WebDriver  = 3.141.59
+-- Selenium-Java WebDriver: `3.141.59`
 -- Chrome driver
 -- Gecko driver
 
@@ -36,7 +36,7 @@ Using Selenium, IAnnotationTransformer, TestNG, and POM created a Data-driven fr
 
 
 ## Setup
-* Install dependencies = mvn install
+* Install dependencies: `mvn install`
 
 
 ## Running your tests
