@@ -40,8 +40,8 @@ Using Selenium, IAnnotationTransformer, TestNG, and POM created a Data-driven fr
 
 
 ## Running your tests
-* To run the test on Chrome Browser, run = mvn test -PSanityTest -DbrowserName.USER="chrome"
-* To run the test on FireFox Browser, run = mvn test -PSanityTest -DbrowserName.USER="firefox"
+* To run the test on Chrome Browser: `mvn test -PSanityTest -DbrowserName.USER="chrome"`
+* To run the test on FireFox Browser: `mvn test -PSanityTest -DbrowserName.USER="firefox"`
 
 
 ## Extent Reports:
