@@ -42,4 +42,9 @@ Using Selenium, IAnnotationTransformer, TestNG, and POM created a Data-driven fr
 
 
 ## Extent Reports:
-Generates HTML Extent report at project directory path: /ExtentReports/TestReport.html
+* Generates HTML Extent report at project directory path: /ExtentReports/TestReport.html
+* Sample Extent Report screenshots:
+
+<img width="1435" alt="Screenshot 2025-07-06 at 10 51 49 AM" src="https://github.com/user-attachments/assets/5fb40c1b-3f5e-41c6-809d-7c00c61e09a4" />
+<img width="1436" alt="Screenshot 2025-07-06 at 10 51 39 AM" src="https://github.com/user-attachments/assets/104c79c2-306b-43bf-a703-575eb9297781" />
+
